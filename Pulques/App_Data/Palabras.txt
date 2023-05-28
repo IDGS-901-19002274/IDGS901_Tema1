@@ -1,0 +1,6 @@
+computadora,computer
+cadena,string
+cerdo,pig
+pelota,ball
+rojo,red
+verde,green
